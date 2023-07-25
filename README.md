@@ -1,0 +1,2 @@
+# maimaiidconverter
+通过xraybot别名库进行的水鱼id同游戏id的转换
